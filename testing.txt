@@ -1,0 +1,3 @@
+Trending , Recommended, Recently Uploaded, Most Reads
+
+Title, Details, Cover image, Author Name, Author image, Date, follow/unfollow, duration, bookmark, 
